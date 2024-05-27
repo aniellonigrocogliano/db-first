@@ -1,0 +1,12 @@
+BOOKS
+__________
+
+id                    - UNSIGNED INT - PRIMARY_KEY (NOT NULL, UNIQUE) - AUTO_INCREMENT
+nane                  - VARCHAR(25)  - NOT NULL 
+kilometres            - MEDIUMINT - NOT NULL 
+transmission          - VARCHAR(255) 
+color                 - VARCHAR(255)
+price                 - DECIMAL(10, 2) - NOT NULL
+registration_year     - YEAR - NOT NULL
+accidents             - TINYINT - NOT NULL
+plate                 - CHAR - NOT NULL
