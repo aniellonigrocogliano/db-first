@@ -1,4 +1,4 @@
-BOOKS
+used_cars
 __________
 
 id                    - UNSIGNED INT - PRIMARY_KEY (NOT NULL, UNIQUE) - AUTO_INCREMENT
